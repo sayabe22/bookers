@@ -25,7 +25,25 @@ body{
     font-size: 13px;
 }
 
-p{
+a{
+    color: #000;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 5px;
+}
+.field .action{
+    margin-bottom: 10px;
+}
+th {
+    padding-bottom: 5px;
+}
+td {
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+p, ol, ul, td {
+    font-family: verdana, arial, helvetica, sans-serif;
     font-size: 13px;
     line-height: 18px;
     margin: 33px;
